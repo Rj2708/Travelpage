@@ -1,0 +1,121 @@
+
+body
+{
+	background:url(https://wallpaperaccess.com/full/42564.jpg);
+	/*background-color: white;*/
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	background-repeat: no-repeat;
+}
+   #home
+
+{
+	background: url(https://i.pinimg.com/originals/1d/7d/bf/1d7dbfc66083dba467f85f0ae2a8f5e1.jpg);
+	/*background:url(https://images.unsplash.com/photo-1570213489059-0aac6626cade?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);*/
+	/*background: url(https://images.unsplash.com/photo-1560200353-ce0a76b1d438?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80);*/
+
+	
+	min-height: 100px;
+    background-repeat: no-repeat;
+	position: relative;
+	background-size: cover;
+	background-position: center;
+	padding-bottom: 10px;
+}
+/*    #content
+{
+	text-align: center;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4)
+	              0px 4px 3px rgba(0,0,0,0.1)
+	               0px 4px 3px rgba(0,0,0,0.1)
+
+}*/
+.content
+{
+	padding-top: 15%;
+}
+h2
+{
+	color: black;
+
+}
+.cls
+{
+	padding-top:10px; 
+	background-color: green;
+	padding-bottom: 10px;
+
+}
+#int
+{
+	margin-left: 300px;
+	width: 500px;
+	}
+.two
+	{
+		padding-top: 20px;
+	}
+	.fa-color
+	{
+		color: green;
+	}
+.Gallery
+{
+	padding-top: 20px;
+}
+#txt
+{
+	padding-top: 50px;
+}
+.row
+{
+	padding-top: 20px;
+}
+.black
+{
+	margin-left: 500px;
+	width: 500px;
+	/*align-content: center;*/
+}
+#contact1
+{
+	padding-top: 20px;
+}
+.black
+{
+	padding-top: 20px;
+	text-align: center;
+	padding-bottom: 40px;
+}
+.sam
+{
+	padding-top:10px; 
+	background-color: green;
+	padding-bottom: 30px;
+}
+.photo
+{
+	padding-top: 30px;
+}
+#fill
+{
+	background-color: grey;
+}
+#booking
+{
+	background-color: green;
+	padding-bottom: 20px;
+}
+.last
+{
+	padding-top: 20px;
+	padding-right:30px;
+	padding-bottom: 20px;
+}
+.copyright
+{
+	padding-top: 20px;
+	background-color: green; 
+	padding-bottom: 20px;
+}
